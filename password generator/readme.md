@@ -25,7 +25,7 @@ random-password-generator/
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/SowmyaSevitha/oasis-infobyte-internship/tree/main
 2. Navigate to the project directory:
    cd random-password-generator
 
