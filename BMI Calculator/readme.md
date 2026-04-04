@@ -19,7 +19,7 @@ The BMI (Body Mass Index) Calculator is a Python-based application that calculat
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/SowmyaSevitha/oasis-infobyte-internship/tree/main
 2. Navigate to the project folder:
    cd bmi-calculator
 3. Install required dependencies:
